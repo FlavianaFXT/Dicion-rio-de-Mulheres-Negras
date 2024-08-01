@@ -4,7 +4,7 @@
 Projeto desenvolvido no decorrer do Curso Eu Progr{amo}-Front End 2 (Fevereiro/2023) da ![image](https://github.com/user-attachments/assets/d83da5c2-af51-444a-90fb-ea86750dde0b)
 
 
-- [PROJETO AQUI](https://dic-de-mulheres-negras.netlify.app/)
+
 
 
 INDICE
@@ -58,7 +58,8 @@ O projeto é constituído de 1 página simples, que trás mulheres negras que fi
 
 
 
-----------------
+![image](https://github.com/user-attachments/assets/32f54a1c-a056-43c4-8c49-8e6dc486a7f6)
+
 
 
 
@@ -123,6 +124,9 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
 O navegador será aberto com o projeto.
 
-  
+
+# CONFIRA O RESULTADO 
+
+[AQUI](https://dic-de-mulheres-negras.netlify.app/)
 
 
